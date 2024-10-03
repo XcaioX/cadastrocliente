@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+h1 {
+    color: #000000;
+}
+
+form {
+    background: rgb(117, 238, 171);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(133, 57, 57, 0.1);
+}
+
+label {
+    margin-top: 10px;
+    display: block;
+}
